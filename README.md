@@ -45,7 +45,7 @@
 <br/>
 
 
-## https://linktr.ee/ReDBearD20
+## https://linktr.ee/godbrand
 
 <p><img align="left" width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=ReDBearD20&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="ReDBearD20" /></p>
 
