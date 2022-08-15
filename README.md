@@ -1,4 +1,4 @@
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](<img src='https://myoctocat.com/assets/images/base-octocat.svg')
 <!--![MasterHead](</images/Pink and Purple Professional LinkedIn Banner.png>)-->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Vikram Singh </h1>
