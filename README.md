@@ -1,7 +1,7 @@
 <!--![This is an image](<img src="https://myoctocat.com/assets/images/base-octocat.svg" />)-->
 <!--![MasterHead](</images/Pink and Purple Professional LinkedIn Banner.png>)-->
 
-<h1><span align="left"><img src="images/octocat-1.png" width="300px" height="300px"/></span><span align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Vikram Singh </span></h1>
+<h1><span align="left"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6d1096d5-7fd4-4e98-b45c-4be18f9f4ca9/df5fzj7-211fefe4-2c6e-4a55-a9d1-6e485387b77f.png/v1/fill/w_1280,h_2003/monkey_d_luffy_15th_transparent_background_by_zthunderedmm_df5fzj7-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAwMyIsInBhdGgiOiJcL2ZcLzZkMTA5NmQ1LTdmZDQtNGU5OC1iNDVjLTRiZTE4ZjlmNGNhOVwvZGY1ZnpqNy0yMTFmZWZlNC0yYzZlLTRhNTUtYTlkMS02ZTQ4NTM4N2I3N2YucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.BOddtrUYVKlVKM5UHSjiVtkCVQQRMrwKBO_mVZ78QR8" width="300px" height="auto" /></span><span align="center">Hi <img src="https://media.tenor.com/lz0e-pIfrQgAAAAi/rgs-wave.gif" width="100px" height="100px">, I'm Vikram Singh </span></h1>
 <h4 align="left">An aspiring full-stack developer from India, I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ReDBearD20&label=Profile%20views&color=0e75b6&style=flat" alt="ReDBearD20" /> </p>
 
