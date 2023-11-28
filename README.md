@@ -1,7 +1,7 @@
 <!--![This is an image](<img src="https://myoctocat.com/assets/images/base-octocat.svg" />)-->
 <!--![MasterHead](</images/Pink and Purple Professional LinkedIn Banner.png>)-->
 
-<h1><span align="left"><img src="/images/octocat-1659526196118.png" width="300px" height="300px"/></span><span align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Vikram Singh </span></h1>
+<h1><span align="left"><img src="/images/naruto profile.gif" width="300px" height="300px"/></span><span align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Vikram Singh </span></h1>
 <h4 align="left">An aspiring full-stack developer from India, I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ReDBearD20&label=Profile%20views&color=0e75b6&style=flat" alt="ReDBearD20" /> </p>
 
